@@ -6,7 +6,7 @@ typora-root-url: pictures\hadoop_pictures
 
 ## 1.Hadoop1.x、2.x、3.X区别
 
-<img src="hadoop123区别.png" alt="hadoop123区别" style="zoom: 80%;" />
+<img src="pictures\hadoop_pictures\hadoop123区别.png" alt="hadoop123区别" style="zoom: 80%;" />
 
 **3.X：**
 Java运行环境升级为1.8；
