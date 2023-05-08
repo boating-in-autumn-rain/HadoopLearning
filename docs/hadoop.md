@@ -1,5 +1,5 @@
 ---
-typora-root-url: ..\pictures\hadoop_pictures
+typora-root-url: pictures\hadoop_pictures
 ---
 
 # 概述
