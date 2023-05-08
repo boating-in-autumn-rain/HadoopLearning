@@ -116,13 +116,13 @@ hadoop job -kill jobid来杀死
 
 **工作原理**
 
-![yarn工作原理](hadoop\yarn工作原理.png)
+![yarn工作原理](pictures\hadoop_pictures\yarn工作原理.png)
 
 **架构**
 
 **YARN主要ResourceManager、NodeManager、ApplicationMaster和Container等组件构成。**
 
-<img src="pictures\hadoop_pictures\hadoop\yarn架构.png" alt="yarn架构" style="zoom:67%;" />
+<img src="pictures\hadoop_pictures\yarn架构.png" alt="yarn架构" style="zoom:67%;" />
 
 
 
