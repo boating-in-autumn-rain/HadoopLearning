@@ -6,7 +6,7 @@ typora-root-url: pictures\hadoop_pictures\
 
 ## 1.Hadoop1.x、2.x、3.X区别
 
-<img src="hadoop123区别.png" alt="hadoop123区别" style="zoom: 80%;" />
+<img src="pictures\hadoop_pictures\hadoop123区别.png" alt="hadoop123区别" style="zoom: 80%;" />
 
 **3.X：**
 Java运行环境升级为1.8；
@@ -122,7 +122,7 @@ hadoop job -kill jobid来杀死
 
 **YARN主要ResourceManager、NodeManager、ApplicationMaster和Container等组件构成。**
 
-<img src="hadoop\yarn架构.png" alt="yarn架构" style="zoom:67%;" />
+<img src="pictures\hadoop_pictures\hadoop\yarn架构.png" alt="yarn架构" style="zoom:67%;" />
 
 
 
@@ -166,11 +166,11 @@ Hadoop3.1.3默认的资源调度器是Capacity Scheduler。2.7.2也是容量。
 
 **读流程**
 
-<img src="hadoop\hdfs读流程.png" alt="hdfs读流程" style="zoom: 67%;" />
+<img src="pictures\hadoop_pictures\hadoop\hdfs读流程.png" alt="hdfs读流程" style="zoom: 67%;" />
 
 **写流程**
 
-<img src="hadoop\hdfs写流程.png" alt="hdfs写流程" style="zoom:67%;" />
+<img src="pictures\hadoop_pictures\hadoop\hdfs写流程.png" alt="hdfs写流程" style="zoom:67%;" />
 
 
 
